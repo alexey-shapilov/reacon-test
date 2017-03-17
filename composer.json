@@ -1,0 +1,17 @@
+{
+    "name": "alexus/reacon-test",
+    "authors": [
+        {
+            "name": "Alexey Shapilov",
+            "email": "alexey.shapilov@gmail.com"
+        }
+    ],
+    "require": {
+        "sokil/php-mongo": "^1.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    }
+}
